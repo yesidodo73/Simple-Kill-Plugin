@@ -16,7 +16,7 @@ This command is helpful for players who might be stuck, want to respawn at their
 The plugin handles the process smoothly, ensuring no server lag or disruption during execution.
 </br>
 ### Compatibility
-Works seamlessly with Paper, Spigot, and Bukkit servers.
+Works seamlessly with Paper, Spigot, Bukkit and Folia servers.
 </br>
 ### How to Install
 Download the plugin .jar file.
