@@ -4,8 +4,6 @@ The Kill Command Plugin is a simple yet powerful utility designed to enhance you
 ## Key Features
 - **Non-OP Accessibility**</br>
 Any player can use /kill regardless of their permission level, making it accessible to everyone on the server.
-</br>
-</br>
 - **Simple Integration and No Disruptions**</br>
 No complex configuration is needed. Drop it into your server's plugins folder, and it's ready to use!
 Also, the command executes efficiently, ensuring smooth gameplay without affecting server performance.
