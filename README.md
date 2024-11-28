@@ -7,7 +7,6 @@ Any player can use /kill regardless of their permission level, making it accessi
 - **Simple Integration and No Disruptions**</br>
 No complex configuration is needed. Drop it into your server's plugins folder, and it's ready to use!
 Also, the command executes efficiently, ensuring smooth gameplay without affecting server performance.</br>
-</br>
 ### Clarification
 The /kill command, as implemented in this plugin, only affects the player executing the command. It cannot be used to target or harm **other** players or entities.
 </br>
